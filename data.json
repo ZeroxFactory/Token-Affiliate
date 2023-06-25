@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Token Contract",
+      "value": "0x5838B43EDE809Dd39e547ba09eE5d0d5a644846b"
+    },
+    {
+      "id": 2,
+      "name": "Title",
+      "value": "Create Affiliate Contract"
+    },
+    {
+      "id": 3,
+      "name": "Description",
+      "value": "Advertise CRLN token and earn commission"
+    },
+    {
+      "id": 4,
+      "name": "twitter",
+      "value": "https://twitter.com/0xFactoryCom"
+    },
+    {
+      "id": 5,
+      "name": "facebook",
+      "value": "https://www.facebook.com/0xFactory"
+    },
+    {
+      "id": 6,
+      "name": "telegram",
+      "value": "https://t.me/ZeroxFactory"
+    },
+    {
+      "id": 7,
+      "name": "github",
+      "value": "https://github.com/ZeroxFactory"
+    }
+    
+  ]
+  
